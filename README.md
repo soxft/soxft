@@ -11,7 +11,7 @@
 
 ⌨Blog：<https://blog.xsot.cn>
 
-✉Email: <mailto:contact@xcsoft.top>
+✉Email: <contact@xcsoft.top>
 
 
 <!--
