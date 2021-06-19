@@ -15,7 +15,7 @@
 
 ### personal Git
 
-You can access my person git with <http://txyun.xsot.cn:3001/>
+You can access my personal git with <http://txyun.xsot.cn:3001/>
 
 <!--
 **soxft/soxft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
