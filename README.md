@@ -15,7 +15,8 @@
 
 ### personal Git
 
-You can access my personal git with <http://txyun.xsot.cn:3001/>
+🔭You can access my personal git with <http://txyun.xsot.cn:3001/>
+If you want me to help you activate your git account, please send pull request to `git.list` under repository: soxft/soxft
 
 <!--
 **soxft/soxft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
