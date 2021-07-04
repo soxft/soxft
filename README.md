@@ -13,11 +13,12 @@
 
 ✉Email: <contact@xcsoft.top>
 
+<!--
+
 #### personal Git
 
 🔭You can access my personal git with <https://git.9420.ltd/>
 
-<!--
 **soxft/soxft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
