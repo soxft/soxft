@@ -14,6 +14,6 @@
 ✉Email: <contact@xcsoft.top>
 
 #### Some statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soxft&count_private=true&show_icons=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=soxft&count_private=true&show_icons=true" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soxft&layout=compact)
