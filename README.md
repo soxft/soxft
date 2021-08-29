@@ -14,6 +14,4 @@
 ✉Email: <contact@xcsoft.top>
 
 #### Some statistics
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=soxft&count_private=true&show_icons=true" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soxft&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=soxft&count_private=true&show_icons=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soxft&layout=compact" />
