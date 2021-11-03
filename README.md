@@ -13,4 +13,4 @@
 
 ✉Email: <contact@xcsoft.top>
 
-![xcsoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=soxft&count_private=true&show_icons=true)
+![xcsoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=soxft&count_private=true)
