@@ -19,7 +19,7 @@ My common development language is PHP, and I have development experience in Web,
 
 ### project
 
-  - [TimeMail](https://www.timeletters.cn): write a letter to futuer
-  - UrlShorter: make your url shorter
+  - [TimeMail](https://www.timeletters.cn): Write a letter to futuer
+  - UrlShorter: Make your url shorter
   - etc.
   
