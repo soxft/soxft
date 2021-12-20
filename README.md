@@ -1,7 +1,7 @@
 ## xcsoft
 #### Basics
 
-👋 Hi there, I'm xcsoft, a senior 2 students of Tongzhou senior high school in Jiangsu Province, china.
+Hi there, I'm xcsoft.
 
 ### introduction
 
@@ -9,13 +9,11 @@ My common development language is PHP, and I have development experience in Web,
 
 ### Find Me
 
-📫 You can find me on...
+You can find me on...
 
-🏠 HomePage: <https://xsot.cn>
+  - Blog：<https://blog.xsot.cn>
 
-⌨ Blog：<https://blog.xsot.cn>
-
-✉ Email: <contact@xcsoft.top>
+  - Email: <contact@xcsoft.top>
 
 ### project
 
