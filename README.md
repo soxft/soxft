@@ -1,5 +1,4 @@
-## xcsoft
-#### Basics
+### Basics
 
 Hi there, I'm xcsoft.
 
@@ -14,10 +13,3 @@ You can find me on...
   - Blog：<https://blog.xsot.cn>
 
   - Email: <contact@xcsoft.top>
-
-### Project
-
-  - [TimeMail](http://www.timeletters.cn): Write a letter to futuer
-  - UrlShorter: Make your url shorter
-  - etc.
-  
