@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm xcsoft. My common development language is PHP, and I have development experience in Web, Flutter mobile software , Wechat applet, etc. 
+I'm I am xcsoft. My common development language is php, and I have development experience in back-end, web, Flutter mobile software, WeChat applet, etc.
