@@ -6,6 +6,6 @@
 
 You can find me on...
 
-  - Blog：<https://blog.xsot.cn>
+  - Blog：https://blog.xsot.cn
 
-  - Email: <contact#xcsoft.top>
+  - Email: contact#xcsoft.top
