@@ -19,4 +19,3 @@ jobs:
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           COMMITTER_NAME: github-actions[bot]
           COMMITTER_EMAIL: github-actions[bot]@users.noreply.github.com
-          IGNORED_LANGUAGES: Other
