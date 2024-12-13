@@ -16,6 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TIME: true
+          BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           COMMITTER_NAME: github-actions[bot]
           COMMITTER_EMAIL: github-actions[bot]@users.noreply.github.com
