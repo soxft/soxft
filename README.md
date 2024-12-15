@@ -4,7 +4,7 @@
   <a href="https://blog.xsot.cn">Blog</a>
 </p>
 
-- 🔭 I’m currently working as an FSE
+- 🔭 I’m currently working as FSE
 - 💬 Ask me about **Go, Python and Dart**
 
 📊 **Weekly development breakdown**
