@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working as FSE
-- 💬 Ask me about **Go, Python and Dart**
+- 💬 Ask me about **Go, React and Python**
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
