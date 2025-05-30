@@ -11,8 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           16 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   76.26 %
-TypeScript   4 mins          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
